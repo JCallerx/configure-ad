@@ -31,9 +31,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <p>
 
- ![image](https://github.com/CopaceticWill/configure-ad/assets/137100082/3dfb0b5b-74a9-48c4-88e6-460a52d07527)
+ ![1](https://github.com/JCallerx/configure-ad/assets/143349237/bede58ef-9f78-45c7-97fa-ff8960cafe58)
 
-![image](https://github.com/CopaceticWill/configure-ad/assets/137100082/9e377281-3a2e-4d0e-b030-47ad06f15a23)
+
+![3](https://github.com/JCallerx/configure-ad/assets/143349237/af621e18-b12c-41da-a28a-da2cebebf639)
+
 
 </p>
 <p>
@@ -51,7 +53,8 @@ My first step is to create a Resource Group and VMs (DC-1 and Client-1). Once I 
 
 <p>
 
-![image](https://github.com/CopaceticWill/configure-ad/assets/137100082/43de14d6-76c0-4903-b365-543250e6d3fc)
+![4](https://github.com/JCallerx/configure-ad/assets/143349237/97299f86-3c78-401d-a406-b603dc1e179d)
+
 </p>
 <p>
 In this step, I install Active Directory within our DC-1.  I take a few steps to complete this action as follows:
@@ -66,7 +69,8 @@ In this step, I install Active Directory within our DC-1.  I take a few steps to
 
 <p>
  
-![image](https://github.com/CopaceticWill/configure-ad/assets/137100082/a06f31b9-cd29-46ff-971b-04f1852bf779)
+![2](https://github.com/JCallerx/configure-ad/assets/143349237/de723c84-ba4e-4f04-b551-a2a51f69918c)
+
 </p>
 <p>
 For the final steps, I will join Client-1 in the domain I created and set up a remote desktop for non-administrative users on Client-1. Here are the steps I took to complete this action
