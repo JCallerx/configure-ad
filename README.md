@@ -53,7 +53,8 @@ My first step is to create a Resource Group and VMs (DC-1 and Client-1). Once I 
 
 <p>
 
-![4](https://github.com/JCallerx/configure-ad/assets/143349237/97299f86-3c78-401d-a406-b603dc1e179d)
+![3](https://github.com/JCallerx/configure-ad/assets/143349237/8ff4ef25-9f50-41c9-842a-9875fadb9808)
+
 
 </p>
 <p>
@@ -69,7 +70,8 @@ In this step, I install Active Directory within our DC-1.  I take a few steps to
 
 <p>
  
-![2]
+
+![4](https://github.com/JCallerx/configure-ad/assets/143349237/8e2f65ac-4613-4772-a0cf-c5ac10fd716d)
 
 </p>
 <p>
