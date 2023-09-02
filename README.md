@@ -69,7 +69,7 @@ In this step, I install Active Directory within our DC-1.  I take a few steps to
 
 <p>
  
-![2](https://github.com/JCallerx/configure-ad/assets/143349237/de723c84-ba4e-4f04-b551-a2a51f69918c)
+![2]
 
 </p>
 <p>
